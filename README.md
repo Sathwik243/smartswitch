@@ -1,1 +1,2 @@
 # smartswitch
+We intend to develop an automation system involving the Internet of Things (IoT). The manual switches ,can be controlled by a Servo motor using Bluetooth from any Android OS smart phone. The orientation of the present idea, is to prevent the electric shocks by the manual switches. There have been numerous deaths in the world related to electric shocks while operating switches, mostly affecting the farmers working in the irrigation fields.
